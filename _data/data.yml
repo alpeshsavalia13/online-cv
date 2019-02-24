@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -44,13 +44,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      To become a successful professional in the field of Information Technology and to work in an innovative and competitive world. Intend to build a career with leading corporate of hi-tech environment with committed & dedicated people, which will help me to explore myself fully and realize my potential. Willing to work as a key player in challenging & creative environment.
 
 education:
     - degree: B.E (Computer Engineering)
@@ -162,20 +156,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django & Flask
-        level: 30%
-        
       - name: Laravel, Yii, Codeignitor PHP framework
         level: 95%
+
+      - name: Mysql
+        level: 95%
+
+      - name: Python & Django & Flask
+        level: 30%
+            
+      - name: Javascript & jQuery
+        level: 98%
        
       - name: HTML5 & CSS
         level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
-
       - name: Angular, NodeJs, ReactJs
         level: 60%
         
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+footer: >    
