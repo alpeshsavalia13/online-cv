@@ -76,6 +76,31 @@ projects:
       As title said, it's basically job portal and freelancing portal. 
         - For Job Portal, Jobseeker and Employeer/Recruiter can register and do the job search and post the job respectively. 
         - For Freelance Portal, Freelancer can search job and hit bid on project. client can post the their requirement and needs and hire freelancer. 
+        
+projects:
+    title: Projects
+    intro: >
+      I've listed out all projects in which i've worked during my journey
+    assignments:
+      - title: Naukripakdo
+        link: ""
+        tagline: "It's jobportal, freelancer and tasker portal to get all in one site for customer, jobseeker and client."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
