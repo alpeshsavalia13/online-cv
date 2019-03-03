@@ -74,8 +74,8 @@ projects:
     title: Naukripakdo
     intro: >
       As title said, it's basically job portal and freelancing portal. 
-       - For Job Portal, Jobseeker and Employeer/Recruiter can register and do the job search and post the job respectively. 
-       - For Freelance Portal, Freelancer can search job and hit bid on project. client can post the their requirement and needs and hire freelancer. 
+        - For Job Portal, Jobseeker and Employeer/Recruiter can register and do the job search and post the job respectively. 
+        - For Freelance Portal, Freelancer can search job and hit bid on project. client can post the their requirement and needs and hire freelancer. 
 
 skills:
     title: Skills &amp; Proficiency
