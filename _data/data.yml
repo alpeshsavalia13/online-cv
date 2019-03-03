@@ -20,7 +20,7 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: 
-    stack-overflow: users/5883711/alpesh-savalia # Number/Username, e.g. 123456/alandoe
+    stack-overflow: 5883711/alpesh-savalia # Number/Username, e.g. 123456/alandoe
 
     languages:
       - idiom: Gujarati
